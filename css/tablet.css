@@ -1,0 +1,89 @@
+.navbar {
+    justify-content: end;
+}
+
+.logo {
+    margin-right: 24px;
+}
+
+.navbar ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+}
+
+.presentation {
+    flex-direction: row;
+    justify-content: space-between;    
+    align-items: center;
+}
+
+.pres-exp {
+    width: 60%;
+    padding-right: 24px;
+    font-size: 5.5rem;
+}
+
+.presentation figure {
+    width: 40%;
+    height: 75%;
+    align-items: center;
+}
+
+.presentation figure img {
+    width: 300px;
+    height: 350px;
+}
+
+.about-me-exp {
+    font-size: 4.6rem;
+    height: 50%;
+}
+
+.skills {
+    height: 50%;
+}
+
+.skills p {
+    font-size: 3.5rem;
+}
+
+.my-projects {
+    padding-top: 128px;
+}
+
+.h1 {
+    font-size: 5.5rem;
+}
+
+.project-container {
+    height: 250px;
+    width: 250px;
+}
+
+.project-img {
+    height: 250px;
+    width: 250px;
+}
+
+.languages-icons {
+    width: 250px;
+    height: 250px;
+}
+
+.icon {
+    width: 80px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.h2 {
+    font-size: 5.5rem;
+}
+
+.contact a {
+    width: 130px;
+    height: 130px;
+}
